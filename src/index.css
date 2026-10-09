@@ -1,0 +1,34 @@
+/*
+ * Global styles
+ *
+ * These rules apply to the entire React application.
+ * We keep global styles here instead of putting them inside
+ * individual components.
+ */
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f6f8;
+  color: #1f2937;
+}
+
+/*
+ * Make form elements inherit the application's font.
+ * Without this, browsers may use their own default font.
+ */
+button,
+input,
+select {
+  font: inherit;
+}
