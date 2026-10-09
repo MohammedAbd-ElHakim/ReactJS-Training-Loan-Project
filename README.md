@@ -1,3 +1,31 @@
+ <p align="center">
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="220" alt="React Logo">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-18%2B-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Vite-Frontend-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/Docker-Dev%20Environment-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
+
+<h1 align="center">React Loan Application</h1>
+
+<p align="center">
+  A React.js training project demonstrating reusable components, form validation, state management, and Docker-based development.
+</p>
+
+<p align="center">
+  <a href="https://github.com/MohammedAbd-ElHakim/ReactJS-Training-Loan-Project">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github" alt="GitHub Repository">
+  </a>
+  <img src="https://img.shields.io/badge/Status-Learning%20Project-blue?style=flat" alt="Project Status">
+</p>
+
+---
+
 # React Loan Application
 
 A training project built with React.js and Vite to practice reusable components, state management, form handling, input validation, and conditional rendering. The project includes a Docker-based development environment using VS Code Dev Containers.
